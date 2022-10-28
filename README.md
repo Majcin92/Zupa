@@ -1,2 +1,2 @@
 # Zupa
-$ aaa
+ aaa
